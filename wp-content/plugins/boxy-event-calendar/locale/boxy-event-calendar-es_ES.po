@@ -1,0 +1,897 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Event Calendar v0.9.9.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-06 16:13-0500\n"
+"PO-Revision-Date: 2015-01-06 16:13-0500\n"
+"Last-Translator: Justin Scheetz <justin@boxystudio.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: boxy-event-calendar.php:385
+msgid "requires a city value for the Timezone setting"
+msgstr ""
+
+#: boxy-event-calendar.php:386
+msgid ""
+"Not all cities are listed. Can't find your city in the timezone dropdown?"
+msgstr ""
+
+#: boxy-event-calendar.php:387
+msgid "Search for your standardized timezone."
+msgstr ""
+
+#: boxy-event-calendar.php:388
+msgid "Update Blog Settings"
+msgstr ""
+
+#: boxy-event-calendar.php:394
+msgid "Your server has PHP magic_quotes_gpc set to active."
+msgstr ""
+
+#: boxy-event-calendar.php:395
+msgid "This produces formatting errors in the Ajax Event Calendar plugin."
+msgstr ""
+
+#: boxy-event-calendar.php:396
+msgid "Learn how to disable this setting"
+msgstr ""
+
+#: boxy-event-calendar.php:397
+msgid "in this forum thread"
+msgstr ""
+
+#: boxy-event-calendar.php:398
+msgid "Ask your host provider for help."
+msgstr ""
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:426 boxy-event-calendar.php:1733
+msgid "Events"
+msgstr "Eventos"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:434 boxy-event-calendar.php:914
+msgid "Categories"
+msgstr "Categorías"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:442 boxy-event-calendar.php:942
+msgid "Activity Report"
+msgstr "Informe de actividades"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:447
+#, fuzzy
+msgid "Options"
+msgstr "Opciones generales"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:480
+msgid "Today"
+msgstr "Hoy"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:481 inc/admin-event.php:94
+msgid "All Day"
+msgstr "Todo el día"
+
+#: boxy-event-calendar.php:482
+#, fuzzy
+msgid "Years"
+msgstr "Año(s)"
+
+#: boxy-event-calendar.php:483
+#, fuzzy
+msgid "Year"
+msgstr "Año(s)"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:484
+msgid "Months"
+msgstr "Meses"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:485
+msgid "Month"
+msgstr "Mes"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:486
+msgid "Weeks"
+msgstr "Semanas"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:487
+msgid "Week"
+msgstr "Semana"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:488
+msgid "Days"
+msgstr "Días"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:489
+msgid "Day"
+msgstr "Día"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:490
+msgid "Hours"
+msgstr "Horas"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:491
+msgid "Hour"
+msgstr "Hora"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:492 inc/admin-options.php:8
+msgid "Minutes"
+msgstr "Minutos"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:493
+msgid "Minute"
+msgstr "Minuto"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:494
+msgid "January"
+msgstr "Enero"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:495
+msgid "February"
+msgstr "Febrero"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:496
+msgid "March"
+msgstr "Marzo"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:497
+msgid "April"
+msgstr "Abril"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:498
+msgid "May"
+msgstr "Mayo"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:499
+msgid "June"
+msgstr "Junio"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:500
+msgid "July"
+msgstr "Julio"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:501
+msgid "August"
+msgstr "Agosto"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:502
+msgid "September"
+msgstr "Septiembre"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:503
+msgid "October"
+msgstr "Octubre"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:504
+msgid "November"
+msgstr "Noviembre"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:505
+msgid "December"
+msgstr "Diciembre"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:506
+msgid "Jan"
+msgstr "Ene"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:507
+msgid "Feb"
+msgstr "Feb"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:508
+msgid "Mar"
+msgstr "Mar"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:509
+msgid "Apr"
+msgstr "Abr"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:510
+#, fuzzy
+msgctxt "Three-letter month name abbreviation"
+msgid "May"
+msgstr "Mayo"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:511
+msgid "Jun"
+msgstr "Jun"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:512
+msgid "Jul"
+msgstr "Jul"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:513
+msgid "Aug"
+msgstr "Ago"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:514
+msgid "Sep"
+msgstr "Sep"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:515
+msgid "Oct"
+msgstr "Oct"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:516
+msgid "Nov"
+msgstr "Nov"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:517
+msgid "Dec"
+msgstr "Dic"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:518
+msgid "Sunday"
+msgstr "Domingo"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:519
+msgid "Monday"
+msgstr "Lunes"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:520
+msgid "Tuesday"
+msgstr "Martes"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:521
+msgid "Wednesday"
+msgstr "Miércoles"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:522
+msgid "Thursday"
+msgstr "Jueves"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:523
+msgid "Friday"
+msgstr "Viernes"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:524
+msgid "Saturday"
+msgstr "Sábado"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:525
+msgid "Sun"
+msgstr "Dom"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:526
+msgid "Mon"
+msgstr "Lun"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:527
+msgid "Tue"
+msgstr "Mar"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:528
+msgid "Wed"
+msgstr "Mie"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:529
+msgid "Thu"
+msgstr "Jue"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:530
+msgid "Fri"
+msgstr "Vie"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:531
+msgid "Sat"
+msgstr "Sab"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:532
+msgid "Close Event Form"
+msgstr "Cerrar Formulario de eventos"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:533
+msgid "Loading Event Form..."
+msgstr "Cargando Formulario de eventos ..."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:534 boxy-event-calendar.php:893
+#: boxy-event-calendar.php:905 inc/admin-event.php:278
+msgid "Update"
+msgstr "Actualizar"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:535 boxy-event-calendar.php:907
+#: inc/admin-event.php:276
+msgid "Delete"
+msgstr "Borrar"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:536
+msgid "Category type"
+msgstr "Tipo de categoría"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:537
+msgid "hide all notifications"
+msgstr "ocultar todas las notificaciones"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:538
+msgid "has been created."
+msgstr "se ha creado."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:539
+msgid "has been modified."
+msgstr "se ha modificado."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:540
+msgid "has been deleted."
+msgstr "ha sido borrado."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:541
+msgid "Add Event"
+msgstr "Agregar evento"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:542
+msgid "Edit Event"
+msgstr "Edición de eventos"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:543
+msgid "Delete this event?"
+msgstr "Eliminar este evento?"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:544
+msgid "Loading Events..."
+msgstr "Cargando Eventos ..."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:545 boxy-event-calendar.php:891
+msgid "Category filter label"
+msgstr "Tipo de categoría"
+
+#: boxy-event-calendar.php:546
+msgid "Repeats Every"
+msgstr "Repetir cada uno"
+
+#: boxy-event-calendar.php:547
+msgid "Until"
+msgstr "Hasta"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:548
+msgid "Success!"
+msgstr "Éxito!"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:549
+msgid "Whoops!"
+msgstr "Upsssss!"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:562
+msgid "You cannot edit events created by other users."
+msgstr "No se pueden editar eventos creados por otros usuarios."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:563
+msgid "You cannot create events in the past."
+msgstr "No se pueden crear eventos en el pasado."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:564
+msgid "You cannot create events more than a year in advance."
+msgstr "No se pueden crear eventos con más de un año de antelación."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:565
+msgid "You cannot resize expired events."
+msgstr "No puede cambiar el tamaño de los eventos expirados."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:566
+msgid "You cannot move events into the past."
+msgstr "No puede mover los eventos al pasado."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:567
+msgid "You cannot edit expired events."
+msgstr "No puede editar eventos expirados."
+
+#: boxy-event-calendar.php:568
+msgid "Invalid duration."
+msgstr "Duracion no valida"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:585
+msgid "Category type cannot be a blank value."
+msgstr "El tipo de categoría no puede ser un valor en blanco."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:586
+msgid "Are you sure you want to delete this category type?"
+msgstr "¿Está seguro que desea eliminar este tipo de categoría?"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:587
+msgid ""
+"Several events are associated with this category. Click OK to reassign these "
+"events to the default category."
+msgstr ""
+"Varios eventos están asociados a esta categoría. Haga clic en Aceptar para "
+"volver a asignar estos eventos a la categoría predeterminada."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:588
+msgid "Events have been reassigned to the default category."
+msgstr "Los eventos han sido reasignados a la categoría predeterminada."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:668 boxy-event-calendar.php:867
+#: boxy-event-calendar.php:879 boxy-event-calendar.php:922
+#: boxy-event-calendar.php:950
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene permisos suficientes para acceder a esta página."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:675
+msgid "Ajax Event Calendar"
+msgstr "Ajax Calendario de Eventos"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:761
+msgid "Add Events"
+msgstr "Agregar evento"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:783
+msgid "No upcoming events"
+msgstr "No hay eventos próximos"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:856
+msgid "All"
+msgstr "Todos"
+
+#: boxy-event-calendar.php:882
+msgid ""
+"To add a new category, enter a category label and select a background color."
+msgstr ""
+"Para añadir una nueva categoria,seleccione un color de fondo y un nombre de "
+"categoria."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:887 inc/admin-event.php:280
+msgid "Add"
+msgstr "Añadir"
+
+#: boxy-event-calendar.php:895
+msgid ""
+"Category IDs are displayed in color bubbles at the beginning of each row."
+msgstr ""
+"La ID de categoria se muestran en globos de color al principio de cada fila."
+
+#: boxy-event-calendar.php:896
+msgid ""
+"To change category color, click the color swatch or edit the hex color value "
+"and click Update."
+msgstr ""
+"Para cambiar el color de la categoria, haga click en la muestra de color o "
+"edite el valor Hexadecimal y haga click en actualizar."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:912
+#, fuzzy
+msgid "Manage Categories"
+msgstr "Categorías"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:931
+msgid "Event"
+msgid_plural "Events"
+msgstr[0] "Evento"
+msgstr[1] "Eventos"
+
+#: boxy-event-calendar.php:934
+#, fuzzy
+msgid "NOTE: Each repeating event is counted once."
+msgstr "NOTA: Cada evento repetitivo es contado como uno."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:936
+msgid "No events this month."
+msgstr "No hay eventos este mes."
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:939
+#, fuzzy
+msgid "Number of events scheduled for the current month, by category:"
+msgstr "Número de eventos programados para el mes en curso, por tipo:"
+
+# @ ajax-event-calendar
+#: boxy-event-calendar.php:1747
+msgid "Settings"
+msgstr "Configuración"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:91
+msgid "Duration"
+msgstr "Duración"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:99
+msgid "From"
+msgstr "Desde"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:107
+msgid "To"
+msgstr "A"
+
+#: inc/admin-event.php:120
+msgid "Repeats"
+msgstr "Repetir"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:125
+#, fuzzy
+msgid "Every"
+msgstr "Evento"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:126
+#, fuzzy
+msgid "Never"
+msgstr "Noviembre"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:142
+#, fuzzy
+msgid "Day(s)"
+msgstr "Días"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:143
+#, fuzzy
+msgid "Week(s)"
+msgstr "Semanas"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:144
+#, fuzzy
+msgid "Month(s)"
+msgstr "Meses"
+
+#: inc/admin-event.php:145
+msgid "Year(s)"
+msgstr "Año(s)"
+
+#: inc/admin-event.php:153
+msgid "Until this date"
+msgstr "Hasta esta fecha"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:159
+msgid "Title"
+msgstr "Título"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:163
+#, fuzzy
+msgid "Category"
+msgstr "Categorías"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:176 inc/admin-options.php:44
+msgid "Venue"
+msgstr "Lugar"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:183
+msgid "Address"
+msgstr "Dirección"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:187 inc/admin-options.php:45
+msgid "Neighborhood or Street Address"
+msgstr "Barrio o Dirección"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:194 inc/admin-options.php:2 inc/admin-options.php:46
+msgid "City"
+msgstr "Ciudad"
+
+#: inc/admin-event.php:201 inc/admin-options.php:47
+msgid "State/Province"
+msgstr "Estado/Provincia"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:208 inc/admin-options.php:4 inc/admin-options.php:48
+msgid "Postal Code"
+msgstr "Código Postal"
+
+#: inc/admin-event.php:215 inc/admin-options.php:49
+msgid "Country"
+msgstr "Pais"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:225
+msgid "Website Link"
+msgstr "Enlace a Sitio Web"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:232 inc/admin-options.php:51
+msgid "Description"
+msgstr "Descripción"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:239
+msgid "Contact Person"
+msgstr "Persona de contacto"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:243
+msgid "Name"
+msgstr "Nombre"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:250
+msgid "Phone or Email Address"
+msgstr "Teléfono o dirección de correo electrónico"
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:262 inc/admin-options.php:54 inc/show-event.php:98
+msgid "This event is accessible to people with disabilities."
+msgstr "Este evento es accesible para personas con discapacidad."
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:270 inc/admin-options.php:55 inc/show-event.php:106
+msgid "Please register with the contact person for this event."
+msgstr "Por favor, registrese con la persona de contacto para este evento."
+
+# @ ajax-event-calendar
+#: inc/admin-event.php:274
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/admin-event.php:277
+msgid "Copy"
+msgstr ""
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:3
+msgid "State"
+msgstr "Estado"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:11 inc/admin-options.php:12
+msgid "Hide"
+msgstr "Ocultar"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:11 inc/admin-options.php:12
+msgid "Display"
+msgstr "Día"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:12
+msgid "Require"
+msgstr "Exigir"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:16
+msgid "Ajax Event Calendar Options"
+msgstr "Opciones del Calendario Ajax"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:20
+#, fuzzy
+msgid "Settings Updated"
+msgstr "Configuración"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:31
+msgid "Display calendar weekends."
+msgstr "Mostrar fines de semana del calendario."
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:32
+#, fuzzy
+msgid "Prevent users from adding or editing expired events."
+msgstr "Prevenir a los usuariosque puedan agregar eventos que han ocurrido."
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:33
+#, fuzzy
+msgid "Display the Add Events link on the front-end calendar."
+msgstr "Mostrar el menú de administración del calendario para el usuario."
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:34
+#, fuzzy
+msgid "Display the View Map link on event details."
+msgstr ""
+"Mostrar el enlace Ver Mapa de los detalles del evento, si los campos de "
+"dirección están ocupados."
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:35
+#, fuzzy
+msgid "Convert description field URLs into  clickable links."
+msgstr ""
+"Las URLs insertadas en el campo de descripción se convierten en enlaces."
+
+#: inc/admin-options.php:36
+msgid "Open Event Detail links in a new browser window."
+msgstr "Abrir los detalles del evento en una nueva ventana del navegador."
+
+#: inc/admin-options.php:37
+msgid "Navigate administrative calendar with mousewheel."
+msgstr "Navegar por el calendario con la rueda del raton."
+
+#: inc/admin-options.php:38
+msgid "Date Format, Time Format, and Week Start"
+msgstr "Formato de fecha, formato de hora, y comienzo de la semana"
+
+#: inc/admin-options.php:39
+msgid "settings are located here"
+msgstr "los ajustes estan aqui"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:40
+msgid "Address format"
+msgstr "Dirección"
+
+#: inc/admin-options.php:41
+msgid "Event timepicker interval"
+msgstr "Intervalo del selector de tiempo"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:43
+msgid ""
+"Hide, display or require form fields.  Hidden fields do not appear in the "
+"event form."
+msgstr ""
+"Ocultar, mostrar o exigir campos de formulario. Los campos ocultos no "
+"aparecen en el formulario del evento."
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:50 inc/show-event.php:140
+msgid "Event Link"
+msgstr "Enlace a Eventos"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:52
+msgid "Contact Name"
+msgstr "Nombre del contacto"
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:53
+msgid "Contact Information"
+msgstr "Información de Contacto"
+
+#: inc/admin-options.php:57
+msgid "Modify calendar and form options then click Save Changes below."
+msgstr ""
+"Modifique el calendario y las opciones del formulario y pulse entonces en "
+"Guardar Cambios debajo."
+
+# @ ajax-event-calendar
+#: inc/admin-options.php:58
+#, fuzzy
+msgid "Reset all settings on Save."
+msgstr "Restablece la configuración de plug-in al Guardar"
+
+#: inc/admin-options.php:59
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+# @ ajax-event-calendar
+#: inc/show-event.php:78
+msgid "View Map"
+msgstr "Ver en el mapa"
+
+# @ ajax-event-calendar
+#: inc/show-event.php:124
+msgid "Presented by"
+msgstr "Presentado por"
+
+# @ ajax-event-calendar
+#: inc/widget-contributors.php:9
+msgid "A list of calendar contributors linked to their organization websites"
+msgstr ""
+"Una lista de los ayudantes del calendario vinculados a la web de su "
+"organización"
+
+# @ ajax-event-calendar
+#: inc/widget-contributors.php:10
+msgid "AEC Contributors"
+msgstr "Calendario de Ayudantes"
+
+# @ ajax-event-calendar
+#: inc/widget-contributors.php:18
+#, php-format
+msgid "(%d) Contributor"
+msgid_plural "(%d) Contributors"
+msgstr[0] "(%d) Ayudante"
+msgstr[1] "(%d) Ayudantes"
+
+# @ ajax-event-calendar
+#: inc/widget-contributors.php:26
+msgid "No contributors as of yet."
+msgstr "No hay Ayudantes hasta el momento."
+
+# @ ajax-event-calendar
+#: inc/widget-contributors.php:62
+msgid "No options available."
+msgstr "No hay opciones disponibles."
+
+# @ ajax-event-calendar
+#: inc/widget-upcoming.php:17
+msgid "AEC Upcoming Events"
+msgstr "Próximos eventos"
+
+# @ ajax-event-calendar
+#: inc/widget-upcoming.php:34
+msgid "Upcoming Events"
+msgstr "Próximos eventos"
