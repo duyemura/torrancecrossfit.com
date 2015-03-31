@@ -1,0 +1,2825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gymboom\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-28 08:01-0500\n"
+"PO-Revision-Date: 2013-05-28 08:01-0500\n"
+"Last-Translator: Justin Scheetz <justin@scheetzdesigns.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: /Users/justinscheetz/Dropbox/!Envato Products/!"
+"ThemeForest/!Gymboom/WordPress/Working Wordpress\n"
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/404.php:7
+msgid "Page Not Found"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/404.php:9
+msgid "Sorry, this page cannot be found."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/archive-gallery-items.php:8
+msgid "All Galleries"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/archive-video-items.php:8
+msgid "All Videos"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/archive-video-items.php:22 Wordpress/archive.php:54
+#: Wordpress/index.php:27 Wordpress/taxonomy-videos.php:28
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:84
+msgid "Posted on"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/archive-video-items.php:22 Wordpress/archive.php:54
+#: Wordpress/index.php:27 Wordpress/taxonomy-videos.php:28
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:84
+msgid "by"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/archive-video-items.php:22 Wordpress/archive.php:54
+#: Wordpress/footer.php:42 Wordpress/index.php:27
+#: Wordpress/taxonomy-videos.php:28
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:84
+msgid "in"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/archive-video-items.php:23 Wordpress/archive.php:55
+#: Wordpress/index.php:28 Wordpress/taxonomy-videos.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/archive-video-items.php:23 Wordpress/archive.php:55
+#: Wordpress/index.php:28 Wordpress/taxonomy-videos.php:29
+msgid "Comments"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/archive.php:15
+msgid "Tagged"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/archive.php:18
+#: Wordpress/archive.php:21 Wordpress/archive.php:24
+msgid "Archive for"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/archive.php:27
+msgid "Author Archive"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/archive.php:30
+msgid "Archives"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/archive.php:63
+#: Wordpress/index.php:36 Wordpress/search.php:21
+msgid "Continue Reading"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/comments.php:20
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/comments.php:23
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/comments.php:32
+msgid "No Responses"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/comments.php:32
+msgid "One Response"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/comments.php:32
+msgid "Responses"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working Wordpress/searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-framework.php:244
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-framework.php:275
+msgid "Default options restored."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-framework.php:323
+msgid "Options saved."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-framework.php:381
+msgid "Theme Options"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:288
+#: Wordpress/_theme_settings/post-types/galleries.php:8
+msgid "Gallery"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/custom_fields/cf_framework.php:6
+msgid "Select a page..."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_framework/custom_fields/cf_framework.php:35
+msgid "Select"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/add-theme-support.php:22
+msgid "Main Menu"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:6
+msgid "Default Sidebar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:8
+msgid "The default sidebar for pages."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:17
+msgid "Page Widget Block A"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:19
+msgid ""
+"These widgets show up on pages that have widgets active. This is block #1."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:28
+msgid "Page Widget Block B"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:30
+msgid ""
+"These widgets show up on pages that have widgets active. This is block #2."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:39
+msgid "Page Widget Block C"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:41
+msgid ""
+"These widgets show up on pages that have widgets active. This is block #3."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:50
+msgid "Bottom Widget Block A"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:52
+msgid "These widgets show up in the bottom footer (left side)."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:61
+msgid "Bottom Widget Block B"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:63
+msgid "These widgets show up in the bottom footer (middle)."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:72
+msgid "Bottom Widget Block C"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:74
+msgid "These widgets show up in the bottom footer (right side)."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:83
+msgid "Page Sidebar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:85
+msgid "These widgets will show up on pages only."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:94
+msgid "Post Sidebar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:96
+msgid "These widgets will show up on posts only."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:105
+msgid "Video Category Sidebar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/register-sidebars.php:107
+msgid "These widgets will show up on Video listings only."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-functions.php:231
+msgid "Featured Image"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-functions.php:245
+#: Wordpress/_theme_settings/theme-options.php:177
+#: Wordpress/_theme_settings/theme-options.php:185
+msgid "None"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-functions.php:569
+#: Wordpress/_theme_settings/shortcodes/upcoming/upcoming.php:92
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:99
+msgid "All day"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:161
+#: Wordpress/_theme_settings/theme-options.php:169
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:705
+msgid "All"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:199
+msgid "General Styling"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:202
+msgid "Logo Replacement"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:203
+msgid ""
+"Upload your own logo. Our recommendation is to keep it at 300px x 90px or "
+"smaller."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:207
+msgid "Logo Width (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:208
+msgid ""
+"The default width for logos is \"300\". You can change this here by entering "
+"a new width."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:213
+msgid "Logo Height (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:214
+msgid ""
+"The default height for logos is \"90\". You can change this here by entering "
+"a new height."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:219
+msgid "Main Color"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:220
+msgid "You can change the custom color. (default is #C25012)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:225
+msgid "Favicon Replacement"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:226
+msgid ""
+"Upload your own favicon. Be sure it's a 16px x 16px \"ico\" or \"png\" file."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:232
+msgid "Custom Fonts"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:235
+msgid "Choose a font from a large selection of the Google Library:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:458
+msgid "Font preview (save to refresh the preview):"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:462
+msgid "Comment Disabling"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:467
+msgid "Disable comments on pages?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:468
+msgid "Select 'yes' if you want to hide the commenting for all pages."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:474
+msgid "Disable comments on posts?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:475
+msgid "Select 'yes' if you want to hide the commenting for all posts."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:481
+msgid "Disable comments on photo galleries?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:482
+msgid "Select 'yes' if you want to hide the commenting for all gallery posts."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:488
+msgid "Disable comments on video posts?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:489
+msgid "Select 'yes' if you want to hide the commenting for all video posts."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:495
+msgid "Disable comments on audio posts?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:496
+msgid "Select 'yes' if you want to hide the commenting for all audio posts."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:504
+msgid "Social Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:507
+msgid "Facebook"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:508
+msgid "Paste your Facebook profile or page URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:513
+msgid "Twitter"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:514
+msgid "Paste your Twitter profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:519
+msgid "LinkedIn"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:520
+msgid "Paste your LinkedIn profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:525
+msgid "Youtube"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:526
+msgid "Paste your Youtube profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:531
+msgid "Vimeo"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:532
+msgid "Paste your Vimeo profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:537
+msgid "Google+"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:538
+msgid "Paste your Google Plus profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:543
+msgid "Pinterest"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:544
+msgid "Paste your Pinterest profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:549
+msgid "RSS Feed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:550
+msgid "Paste your RSS Feed URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:557
+msgid "Footer"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:560
+msgid "Footer Background Color"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:561
+msgid "You can change the custom color. (default is #333333)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:566
+msgid "Bottom Bar Background Color"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:567
+msgid "You can change the custom color. (default is #202020)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:572
+msgid "Left Text"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:573
+msgid "You can use [year] to display the year."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:578
+msgid "Disable the Footer Bar?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:587
+#: Wordpress/_theme_settings/custom-fields/pages.php:16
+msgid "Other Options"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:591
+msgid "12-Hour Format (am/pm)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:592
+msgid "24-Hour Format"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:594
+msgid "Time Format"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:595
+msgid "Choose time format."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:601
+msgid "404 Page Content"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:602
+msgid "This is what will show up on the 404 page. HTML Allowed."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:604
+msgid "Sorry, the page cannot be found."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:607
+msgid "Google Analytics Code"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:608
+msgid "Enter your code, this shows up right above the </head> tag."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:613
+msgid "Custom CSS Code"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/theme-options.php:614
+msgid "Enter your own styles to overwrite whatever you need to."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/audio.php:5
+msgid "Upload the MP3 version of your audio file."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/audio.php:7
+msgid ""
+"Alternatively, link to an external MP3 file. This will override any uploaded "
+"ones."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/audio.php:9
+msgid "Upload Audio Files"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:4
+msgid "General Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:6
+msgid "Show the big image?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:6
+msgid ""
+"This will display a big version of the Featured Post Image as an "
+"introduction at the top of the gallery."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:7
+msgid "Yes"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:10
+msgid ""
+"This theme counts the number of photos uploaded to the post. Sometimes this "
+"number doesn't line up with how many photos are actually in your gallery, so "
+"you can override that number here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:6
+msgid "Page Layout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:14
+msgid "Individual blocks can be hidden using the other options on this page."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:17
+msgid "Hide the breadcrumbs above the title."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:17
+msgid "Hide the page title."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:19
+msgid "Page Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:27
+msgid "Slider to display:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:29
+msgid "Create a new slider"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:31
+msgid "Slider Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:38
+msgid "Testimonial Display"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:39
+msgid "Show the testimonials block."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:47
+msgid "Testimonial Category to Display:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:50
+msgid "Sort by:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:53
+msgid "Sort order:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:56
+msgid "Testimonials Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:63
+msgid "Sidebar Layout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:77
+msgid "Choose a sidebar:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:80
+msgid "Sidebar Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:87
+msgid "\"Features\" Block Layout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:124
+msgid "\"Features\" Block Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:146
+msgid "Page Widget Layout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:157
+msgid "Widget Block for ZONE 1:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:161
+msgid "Widget Block for ZONE 2:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:165
+msgid "Widget Block for ZONE 3:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:168
+msgid "Page Widget Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/testimonials.php:8
+msgid "Testimonial Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/videos.php:5
+msgid ""
+"Paste the link here to a <strong>Vimeo</strong> or <strong>Youtube</strong> "
+"video page.<br /><br /><strong>Youtube Example:</strong> http://www.youtube."
+"com/watch?v=UF8uR6Z6KLc<br /><strong>Vimeo Example:</strong> http://vimeo."
+"com/30195371"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/custom-fields/videos.php:6
+msgid "Video Link"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:261
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:1609
+msgid "Events"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:269
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:762
+msgid "Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:282
+msgid "Options"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:322
+msgid "Today"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:323
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:94
+msgid "All Day"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:324
+msgid "Years"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:325
+msgid "Year"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:326
+msgid "Months"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:327
+msgid "Month"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:328
+msgid "Weeks"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:329
+msgid "Week"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:330
+msgid "Days"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:331
+msgid "Day"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:332
+msgid "Hours"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:333
+msgid "Hour"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:334
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:8
+msgid "Minutes"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:335
+msgid "Minute"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:336
+msgid "January"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:337
+msgid "February"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:338
+msgid "March"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:339
+msgid "April"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:340
+msgid "May"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:341
+msgid "June"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:342
+msgid "July"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:343
+msgid "August"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:344
+msgid "September"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:345
+msgid "October"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:346
+msgid "November"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:347
+msgid "December"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:348
+msgid "Jan"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:349
+msgid "Feb"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:350
+msgid "Mar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:351
+msgid "Apr"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:353
+msgid "Jun"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:354
+msgid "Jul"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:355
+msgid "Aug"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:356
+msgid "Sep"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:357
+msgid "Oct"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:358
+msgid "Nov"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:359
+msgid "Dec"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:360
+msgid "Sunday"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:361
+msgid "Monday"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:362
+msgid "Tuesday"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:363
+msgid "Wednesday"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:364
+msgid "Thursday"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:365
+msgid "Friday"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:366
+msgid "Saturday"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:367
+msgid "Sun"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:368
+msgid "Mon"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:369
+msgid "Tue"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:370
+msgid "Wed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:371
+msgid "Thu"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:372
+msgid "Fri"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:373
+msgid "Sat"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:374
+msgid "Close Event"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:375
+msgid "Loading event..."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:376
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:742
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:754
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:278
+msgid "Update"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:377
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:756
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:276
+msgid "Delete"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:378
+msgid "Category type"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:379
+msgid "hide all notifications"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:380
+msgid "has been created."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:381
+msgid "has been modified."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:382
+msgid "has been deleted."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:383
+msgid "Add Event"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:384
+msgid "Edit Event"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:385
+msgid "Delete this event?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:386
+msgid "Loading Events..."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:387
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:740
+msgid "Category filter label"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:388
+msgid "Repeats Every"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:389
+msgid "Until"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:390
+msgid "Success!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:391
+msgid "Whoops!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:404
+msgid "You cannot edit events created by other users."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:405
+msgid "You cannot create events in the past."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:406
+msgid "You cannot create events more than a year in advance."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:407
+msgid "You cannot resize expired events."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:408
+msgid "You cannot move events into the past."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:409
+msgid "You cannot edit expired events."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:410
+msgid "Invalid duration."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:427
+msgid "Category type cannot be a blank value."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:428
+msgid "Are you sure you want to delete this category type?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:429
+msgid ""
+"Several events are associated with this category. Click OK to reassign these "
+"events to the default category."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:430
+msgid "Events have been reassigned to the default category."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:513
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:716
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:728
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:770
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:797
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:519
+msgid "Event Calendar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:605
+msgid "Add Events"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:631
+msgid "No upcoming events"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:731
+msgid ""
+"To add a new category, enter a category label and select a background color."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:736
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:280
+msgid "Add"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:744
+msgid ""
+"Category IDs are displayed in color bubbles at the beginning of each row."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:745
+msgid ""
+"To change category color, click the color swatch or edit the hex color value "
+"and click Update."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:761
+msgid "Manage Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:782
+msgid "NOTE: Each repeating event is counted once."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:784
+msgid "No events this month."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:787
+msgid "Number of events scheduled for the current month, by category:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:789
+msgid "Reports"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:1623
+msgid "Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:91
+msgid "Duration"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:99
+msgid "From"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:107
+msgid "To"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:120
+msgid "Repeats"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:125
+msgid "Every"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:126
+msgid "Never"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:142
+msgid "Day(s)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:143
+msgid "Week(s)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:144
+msgid "Month(s)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:145
+msgid "Year(s)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:153
+msgid "Until this date"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:159
+#: Wordpress/_theme_settings/widgets/column-text.php:23
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:30
+#: Wordpress/_theme_settings/widgets/recent-audio.php:30
+#: Wordpress/_theme_settings/widgets/text.php:23
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:24
+#: Wordpress/_theme_settings/widgets/video-widget.php:30
+msgid "Title"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:163
+msgid "Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:176
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:42
+msgid "Venue"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:183
+msgid "Address"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:187
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:43
+msgid "Neighborhood or Street Address"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:194
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:2
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:44
+msgid "City"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:201
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:45
+msgid "State/Province"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:208
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:4
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:46
+msgid "Postal Code"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:215
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:47
+msgid "Country"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:225
+msgid "Website Link"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:232
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:49
+msgid "Description"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:239
+msgid "Contact Person"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:243
+msgid "Name"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:250
+msgid "Phone or Email Address"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:262
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:52
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:97
+msgid "This event is accessible to people with disabilities."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:270
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:53
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:105
+msgid "Please register with the contact person for this event."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:274
+msgid "Cancel"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:277
+msgid "Copy"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:290
+msgid "Created by"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:291
+msgid "Ajax Event Calendar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:3
+msgid "State"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:11
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:12
+msgid "Hide"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:11
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:12
+msgid "Display"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:12
+msgid "Require"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:15
+msgid "Event Calendar Options"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:19
+msgid "Settings Updated"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:30
+msgid "Display calendar weekends."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:31
+msgid "Prevent users from adding or editing expired events."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:32
+msgid "Display the Add Events link on the front-end calendar."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:33
+msgid "Display the View Map link on event details."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:34
+msgid "Convert description field URLs into  clickable links."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:35
+msgid "Navigate administrative calendar with mousewheel."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:36
+msgid "Date Format, Time Format, and Week Start settings are "
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:37
+msgid "located here"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:38
+msgid "Address format"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:39
+msgid "Event timepicker interval"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:41
+msgid ""
+"Hide, display or require form fields.  Hidden fields do not appear in the "
+"event form."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:48
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:139
+msgid "Event Link"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:50
+msgid "Contact Name"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:51
+msgid "Contact Information"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:55
+msgid "Modify calendar and form options then click Save Changes below."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:56
+msgid "Reset all settings on Save."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:77
+msgid "View Map"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:123
+msgid "Presented by"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:9
+msgid "A list of calendar contributors linked to their organization websites"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:10
+msgid "AEC Contributors"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:26
+msgid "No contributors as of yet."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:62
+msgid "No options available."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-upcoming.php:17
+msgid "AEC Upcoming Events"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-upcoming.php:34
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:25
+msgid "Upcoming Events"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:7
+msgid "Audio Items"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:8
+msgid "Audio Item"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:9
+#: Wordpress/_theme_settings/post-types/audio.php:10
+msgid "Add New Audio Item"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:11
+msgid "Edit Audio Item"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:12
+msgid "New Audio Item"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:13
+msgid "View Audio Item"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:14
+msgid "Search Audio Items"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:15
+msgid "No Audio Items Found"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:16
+msgid "No Audio Items Found In Trash"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:17
+msgid "Parent Audio Item:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:41
+msgid "Search Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:42
+msgid "Popular Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:43
+msgid "All Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:46
+msgid "Edit Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:47
+msgid "Update Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:48
+msgid "Add New Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:49
+msgid "New Audio Series Name"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:50
+msgid "Separate Audio Series with commas"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:51
+msgid "Add or remove Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/audio.php:52
+msgid "Choose from the most used Audio Series"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:7
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:31
+msgid "Galleries"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:9
+#: Wordpress/_theme_settings/post-types/galleries.php:10
+msgid "Add New Gallery"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:11
+msgid "Edit Gallery"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:12
+msgid "New Gallery"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:13
+msgid "View Gallery"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:14
+msgid "Search Galleries"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:15
+msgid "No Galleries Found"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:16
+msgid "No Galleries Found In Trash"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:17
+msgid "Parent Gallery:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:41
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:42
+msgid "Popular Gallery Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:43
+msgid "All Gallery Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:46
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:47
+msgid "Update Gallery Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:48
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:49
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:50
+msgid "Separate Gallery Categories with commas"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:51
+msgid "Add or remove Gallery Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:52
+msgid "Choose from the most used Gallery Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:7
+msgid "Testimonials"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:8
+msgid "Testimonial"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:9
+#: Wordpress/_theme_settings/post-types/testimonials.php:10
+msgid "Add New Testimonial"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:11
+msgid "Edit Testimonial"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:12
+msgid "New Testimonial"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:13
+msgid "View Testimonial"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:14
+msgid "Search Testimonials"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:15
+msgid "No Testimonials Found"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:16
+msgid "No Testimonials Found In Trash"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:17
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:41
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:42
+msgid "Popular Testimonial Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:43
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:46
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:47
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:48
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:49
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:50
+msgid "Separate Testimonial Categories with commas"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:51
+msgid "Add or remove Testimonial Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/testimonials.php:52
+msgid "Choose from the most used Testimonial Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:7
+#: Wordpress/_theme_settings/widgets/video-widget.php:31
+msgid "Videos"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:8
+msgid "Video"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:9
+#: Wordpress/_theme_settings/post-types/videos.php:10
+msgid "Add New Video"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:11
+msgid "Edit Video"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:12
+msgid "New Video"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:13
+msgid "View Video"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:14
+msgid "Search Videos"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:15
+msgid "No Videos Found"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:16
+msgid "No Videos Found In Trash"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:17
+msgid "Parent Video:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:41
+msgid "Search Video Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:42
+msgid "Popular Video Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:43
+msgid "All Video Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:46
+msgid "Edit Video Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:47
+msgid "Update Video Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:48
+msgid "Add New Video Category"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:49
+msgid "New Video Category Name"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:50
+msgid "Separate Video Categories with commas"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:51
+msgid "Add or remove Video Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/videos.php:52
+msgid "Choose from the most used Video Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:83
+msgid "Sliders"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:84
+msgid "Slider"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:85
+msgid "Add New"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:86
+msgid "Add new Slider"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:87
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:90
+msgid "View Slider"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:88
+msgid "Edit Slider"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:89
+msgid "New Slider"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:91
+msgid "Search Sliders"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:92
+msgid "No Sliders found"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:93
+msgid "No Sliders found in Trash"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:514
+msgid "Allowed Files"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:91
+#: Wordpress/_theme_settings/widgets/recent-audio.php:118
+msgid "Play Audio"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:72
+#: Wordpress/_theme_settings/widgets/recent-posts.php:104
+msgid "Posted by"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:72
+#: Wordpress/_theme_settings/widgets/recent-posts.php:104
+msgid "on"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/column-text.php:12
+msgid "Displays a text widget with two columns."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/column-text.php:18
+msgid "[GYMBOOM] Column Text Widget"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/column-text.php:24
+#: Wordpress/_theme_settings/widgets/text.php:24
+msgid "Widget Title"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/column-text.php:29
+msgid "Left Column Text (left aligned)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/column-text.php:35
+msgid "Right Column Text (right aligned)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:13
+msgid "Displays the Facebook Feed from a user or page."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:20
+msgid "[GYMBOOM] Facebook Feed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:26
+msgid "Facebook Feed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:37
+#: Wordpress/_theme_settings/widgets/recent-audio.php:46
+#: Wordpress/_theme_settings/widgets/recent-posts.php:43
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:37
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:30
+msgid "How many total items?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:43
+#: Wordpress/_theme_settings/widgets/recent-audio.php:52
+#: Wordpress/_theme_settings/widgets/recent-posts.php:49
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:43
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:36
+msgid "How many visible items?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:14
+msgid "Display one or more recent gallery items."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:25
+msgid "[GYMBOOM] Gallery Widget"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:40
+msgid "Gallery Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:46
+#: Wordpress/_theme_settings/widgets/video-widget.php:46
+msgid "How many thumbnails to show?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/map.php:12
+msgid "Displays a Google Map."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/map.php:18
+msgid "[GYMBOOM] Google Map Widget"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/map.php:23
+msgid "Title (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/map.php:29
+msgid "Map &lt;iframe&gt; Code"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/page-children.php:8
+msgid ""
+"Displays the direct children of the current page ancestor. This widget is "
+"displayed only on pages."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/page-children.php:10
+msgid "[GYMBOOM] List Child Pages"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:14
+msgid "Display one or more recent audio items."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:25
+msgid "[GYMBOOM] Recent Audio Items"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:31
+msgid "Recent Sermons"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:40
+msgid "Audio Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:13
+msgid "Displays recent posts in a custom style."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:20
+msgid "[GYMBOOM] Recent Posts"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:32
+msgid "This is a short description."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:37
+msgid "Select Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:13
+msgid "Displays recent tweets from a username."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:20
+msgid "[GYMBOOM] Twitter Feed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:26
+msgid "Recent Tweets"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/social-icons.php:12
+msgid "Displays a list of social icons."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/social-icons.php:18
+msgid "[GYMBOOM] Social Icons"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/text.php:12
+msgid "Displays a text widget."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/text.php:18
+msgid "[GYMBOOM] Text Widget"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/text.php:29
+msgid "Widget Text"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/text.php:35
+msgid "Button Link (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/text.php:41
+msgid "Button Text (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:13
+msgid "Display one or more upcoming events."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:19
+msgid "[GYMBOOM] Upcoming Events"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/video-widget.php:14
+msgid "Display one or more recent video items."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/video-widget.php:25
+msgid "[GYMBOOM] Video Widget"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!Gymboom/WordPress/Working
+#: Wordpress/_theme_settings/widgets/video-widget.php:40
+msgid "Video Categories"
+msgstr ""
