@@ -29,7 +29,7 @@
 		<?php if (!ot_get_option('js_bottom_bar_disabled')): ?>
 			<section class="bottom">
 				<section class="shell">
-					<p><a href="#wrap" id="back-to-top" class="right">Back to Top</a> <?php display_bottom_left_content(); ?></p>
+					<p><a href="#wrap" id="back-to-top" class="right"><?php _e('Back to Top','gymboom'); ?></a> <?php display_bottom_left_content(); ?></p>
 				</section>
 			</section>
 		<?php endif; ?>

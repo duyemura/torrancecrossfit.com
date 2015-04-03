@@ -4,7 +4,11 @@ global $aec;
 
 include('page-children.php');
 include('recent-posts.php');
-include('recent-tweets.php');
+
+// Twitter
+include('twitter/versions-proxy.php');
+include('twitter/recent-tweets.php');
+
 include('facebook-feed.php');
 include('gallery-widget.php');
 include('video-widget.php');

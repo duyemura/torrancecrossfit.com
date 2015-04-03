@@ -77,9 +77,6 @@ require('_theme_settings/post-types/init.php');
 // Register Sidebars
 require('_theme_settings/register-sidebars.php');
 
-// Register widgets
-require('_theme_settings/widgets/init.php');
-
 // Theme related functions
 require('_theme_settings/theme-functions.php');
 
@@ -91,6 +88,12 @@ require('_theme_settings/theme-shortcodes.php');
 
 // Page part functions
 require('_theme_settings/page-parts.php');
+
+// Widgets
+add_action( 'after_setup_theme', 'boxy_widgets' );
+function boxy_widgets() {
+	require('_theme_settings/widgets/init.php');
+}
 
 add_action('admin_init', 'gb_add_custom_editor_caps');
 function gb_add_custom_editor_caps() {

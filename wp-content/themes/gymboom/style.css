@@ -4,7 +4,7 @@ Theme URI: http://www.boxystudio.com
 Author URI: http://www.boxystudio.com
 Description: A Fitness WordPress Theme
 Author: Boxy Studio
-Version: 2.1
+Version: 2.1.6
 License: GNU General Public License
 License URI: license.txt
 Tags: two-columns, three-columns, fixed-width, threaded-comments
@@ -582,7 +582,7 @@ footer span.next:hover { background-position: -23px -46px !important; }
 	margin:0 0 40px;
 }
 
-.hidden-responsive-calendar { display:none; }
+#bec-mobile-version { display:none; }
 
 #searchform input.field { color:#888; padding:5px; border:1px solid #ddd; font-size:12px; line-height:12px; }
 #searchform input.button { padding:6px 9px !important; border:none; color:#fff; }

@@ -117,7 +117,7 @@ class ThemeWidgetUpcomingEvents extends ThemeWidgetBase {
 						
 					$time_format = get_option('time_format'); ?>
 				
-					<li><a href="#" class="event-link" onclick="jQuery.aecDialog({'id':<?php echo $event['id']; ?>,'start':'<?php echo $event['start']; ?>','end':'<?php echo $event['end']; ?>'}); return false;"><span class="icon"><img src="<?php echo $template_dir; ?>/_theme_styles/images/clock.png" alt="" /></span> <span class="right">
+					<li><a href="#" class="event-link" onclick="jQuery.aecDialog({'cat':7,'id':<?php echo $event['id']; ?>,'start':'<?php echo $event['start']; ?>','end':'<?php echo $event['end']; ?>'}); return false;"><span class="icon"><img src="<?php echo $template_dir; ?>/_theme_styles/images/clock.png" alt="" /></span> <span class="right">
 						<?php if (isset($instance['time_date']) && $instance['time_date'] == 'date'){
 							echo $start_day;
 						} else {

@@ -181,7 +181,7 @@
 		top:3px;
 	}
 	
-	.hidden-responsive-calendar { display:block; }
+	#bec-mobile-version { display:block !important; }
 	#aec-container { display:none; }
 
 }

@@ -422,8 +422,6 @@ function gymboom_theme_options() {
 			
 		)
 	);
-	
-	
   
   /* allow settings to be filtered before saving */
   $theme_options_settings = apply_filters( ot_settings_id() . '_args', $theme_options_settings );

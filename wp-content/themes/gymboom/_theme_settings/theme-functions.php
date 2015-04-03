@@ -155,11 +155,9 @@ add_action('wp_head', 'gymboom_custom_styles');
 // ------------------------------------------------------------
 // Gymboom Slider
 
-	function gymboom_slider($post){
+	function gymboom_slider($slider_choice){
 	
 		global $template_dir;
-	
-		$slider_choice = get_post_meta($post->ID, '_slider_choice', true);
 	
 		if ($slider_choice):
 		
